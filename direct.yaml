@@ -1,58 +1,76 @@
 payload:
-  - DOMAIN-SUFFIX,mao.fan,DIRECT
-  - DOMAIN-SUFFIX,abtk.pinduoduo.com,DIRECT
+  - IP-CIDR,192.168.0.0/16
+  - IP-CIDR,10.0.0.0/8
+  - IP-CIDR,172.16.0.0/12
+  - DOMAIN-SUFFIX,nuc
+  - DOMAIN-SUFFIX,gtr58.top
   - DOMAIN-SUFFIX,upwork.com
-  - DOMAIN-SUFFIX,blackmagicdesign.com # DaVinci
-  - DOMAIN-SUFFIX,orzass.com # FCPX字幕生成
+  - DOMAIN-SUFFIX,blackmagicdesign.com
+  - DOMAIN-SUFFIX,orzass.com
   - DOMAIN-SUFFIX,frame.io
+  - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloufflare.com
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,jk.io
   - DOMAIN-SUFFIX,amazonaws.com
   - DOMAIN-SUFFIX,logi.com
-  - DOMAIN,cf-workers-docker-io-bb4.pages.dev # Docker仓库镜像代理
-  - DOMAIN-SUFFIX,noip.com # ddns
+  - DOMAIN-SUFFIX,noip.com
+  - DOMAIN-SUFFIX,ddns.net
   - DOMAIN-SUFFIX,vercel.app
   - DOMAIN-SUFFIX,speedtest.net
+  - DOMAIN,zeabur.com
+  - DOMAIN,cf-workers-docker-io-bb4.pages.dev
   - DOMAIN-SUFFIX,garmin.com
   - DOMAIN-SUFFIX,ipsw.me
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
-  - DOMAIN-SUFFIX,gying.org # 观影
+  - DOMAIN-SUFFIX,gying.org
   - DOMAIN-SUFFIX,btnull.org
-  - DOMAIN-SUFFIX,fengbao9.com
-  - DOMAIN-SUFFIX,bvvvvvvvvv1f.com
-  - DOMAIN-SUFFIX,ryplay12.com
-  - DOMAIN-SUFFIX,bfvvs.com
-  - DOMAIN-SUFFIX,ymuuy.com
-  - DOMAIN-SUFFIX,gsuus.com
-  - DOMAIN-SUFFIX,qewbn.com
+  - DOMAIN-SUFFIX,555dy.org
+  - DOMAIN-SUFFIX,5wuv.com
+  - DOMAIN-SUFFIX,555yy9.com
   - DOMAIN-SUFFIX,heimuer.app
-  - DOMAIN-SUFFIX,cdnlz12.com # 量子线路
-  - DOMAIN-SUFFIX,bfengbf.com # 暴风线路
-  - DOMAIN-SUFFIX,rrcdnbf1.com # 暴风线路
-  - DOMAIN-SUFFIX,rrcdnbf4.com # 暴风线路
+  - DOMAIN-SUFFIX,yxssp.com
+  - DOMAIN-SUFFIX,tutu.pm
+  - DOMAIN-SUFFIX,dytt-love.com
+  - DOMAIN-SUFFIX,maoyanplay.top
+  - DOMAIN-SUFFIX,679866.xyz
+  - DOMAIN-SUFFIX,cdnlz12.com
+  - DOMAIN-SUFFIX,bfengbf.com
+  - DOMAIN-SUFFIX,rrcdnbf1.com
+  - DOMAIN-SUFFIX,rrcdnbf4.com
+  - DOMAIN-SUFFIX,lzcdn2.com
+  - DOMAIN-SUFFIX,kkzycdn.com
+  - DOMAIN-SUFFIX,bfikuncdn.com
   - DOMAIN-SUFFIX,ffzy-online2.com
   - DOMAIN-SUFFIX,ffzy-plays.com
-  - DOMAIN-SUFFIX,bfikuncdn.com
-  - DOMAIN-SUFFIX,kkzycdn.com
+  - DOMAIN-SUFFIX,ffzy-play7.com
   - DOMAIN-SUFFIX,dytt-hot.com
   - DOMAIN-SUFFIX,dytt-film.com
   - DOMAIN-SUFFIX,dytt-cine.com
   - DOMAIN-SUFFIX,dytt-kan.com
   - DOMAIN-SUFFIX,dytt-see.com
-  - DOMAIN-SUFFIX,dytt-see.com
-  - DOMAIN,5wuv.com
-  - DOMAIN,555yy9.com
-  - DOMAIN,555dy.org
+  - DOMAIN-SUFFIX,dytt-cinema.com
   - DOMAIN-SUFFIX,live.com
   - DOMAIN-SUFFIX,outlook.com
   - DOMAIN-SUFFIX,payoneer.com
   - DOMAIN-SUFFIX,sharedchat.fun
+  - DOMAIN-SUFFIX,mao.fan
+  - DOMAIN-SUFFIX,abtk.pinduoduo.com
+  - DOMAIN-SUFFIX,appstorrent.org
+  - DOMAIN-SUFFIX,sixyin.com
   - DOMAIN,exact.domain.com
   - DOMAIN-KEYWORD,somekeyword
-  - DOMAIN-SUFFIX,proxyinfo.net # proxy toggle
-  - DOMAIN-SUFFIX,679866.xyz
+  - DOMAIN-SUFFIX,proxyinfo.net
   - DOMAIN-SUFFIX,ly166.com
   - DOMAIN-SUFFIX,gghijk.com
   - DOMAIN-SUFFIX,qwe132456.cc
+  - DOMAIN-SUFFIX,ryplay12.com
+  - DOMAIN-SUFFIX,ryplay15.com
+  - DOMAIN-SUFFIX,bfvvs.com
+  - DOMAIN-SUFFIX,ymuuy.com
+  - DOMAIN-SUFFIX,gsuus.com
+  - DOMAIN-SUFFIX,qewbn.com
+  - DOMAIN-SUFFIX,bvvvvvvvvv1f.com
+  - DOMAIN-SUFFIX,fengbao9.com
+  - DOMAIN-SUFFIX,ddbbffcdn.com

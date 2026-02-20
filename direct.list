@@ -1,78 +1,98 @@
-# > 常用 & 基础 
-DOMAIN-SUFFIX,mao.fan,DIRECT
-DOMAIN-SUFFIX,abtk.pinduoduo.com,DIRECT
+# ==========================================================
+# 规则名称: Public Direct Rules (Remote Rule-Set)
+# 适用平台: Loon, Surge, Mihomo (Rule Provider)
+# 格式规范: 纯净域名列表，不带策略后缀
+# ==========================================================
 
-# > 视频剪辑相关 (Upwork, DaVinci, FCPX)
+# > 局域网 & 私有地址
+IP-CIDR,192.168.0.0/16
+IP-CIDR,10.0.0.0/8
+IP-CIDR,172.16.0.0/12
+DOMAIN-SUFFIX,nuc
+DOMAIN-SUFFIX,gtr58.top
+
+# > 视频剪辑与专业工具
 DOMAIN-SUFFIX,upwork.com
-DOMAIN-SUFFIX,blackmagicdesign.com # DaVinci
-DOMAIN-SUFFIX,orzass.com # FCPX字幕生成
+DOMAIN-SUFFIX,blackmagicdesign.com
+DOMAIN-SUFFIX,orzass.com
 DOMAIN-SUFFIX,frame.io
 
-# > 网络与工具 (Cloudflare, Docker, DDNS)
+# > 网络与开发工具
+DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloufflare.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,jk.io
 DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,logi.com
-DOMAIN,cf-workers-docker-io-bb4.pages.dev # Docker仓库镜像代理
-DOMAIN-SUFFIX,noip.com # ddns
+DOMAIN-SUFFIX,noip.com
+DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,speedtest.net
+DOMAIN,zeabur.com
+DOMAIN,cf-workers-docker-io-bb4.pages.dev
 
-# > 硬件与固件 (Garmin, Mac)
+# > 硬件、固件与云服务
 DOMAIN-SUFFIX,garmin.com
 DOMAIN-SUFFIX,ipsw.me
-
-# > Oracle 云服务
 DOMAIN-SUFFIX,oracle.com
 DOMAIN-SUFFIX,oraclecloud.com
 
-# > 影视网站相关
-DOMAIN-SUFFIX,gying.org # 观影
+# > 影视网站 (主站)
+DOMAIN-SUFFIX,gying.org
 DOMAIN-SUFFIX,btnull.org
-DOMAIN-SUFFIX,fengbao9.com
-DOMAIN-SUFFIX,bvvvvvvvvv1f.com
-DOMAIN-SUFFIX,ryplay12.com
-DOMAIN-SUFFIX,bfvvs.com
-DOMAIN-SUFFIX,ymuuy.com
-DOMAIN-SUFFIX,gsuus.com
-DOMAIN-SUFFIX,qewbn.com
+DOMAIN-SUFFIX,555dy.org
+DOMAIN-SUFFIX,5wuv.com
+DOMAIN-SUFFIX,555yy9.com
 DOMAIN-SUFFIX,heimuer.app
+DOMAIN-SUFFIX,yxssp.com
+DOMAIN-SUFFIX,tutu.pm
+DOMAIN-SUFFIX,dytt-love.com
+DOMAIN-SUFFIX,maoyanplay.top
+DOMAIN-SUFFIX,679866.xyz
 
 # > 影视线路 (CDN & 采集站)
-DOMAIN-SUFFIX,cdnlz12.com # 量子线路
-DOMAIN-SUFFIX,bfengbf.com # 暴风线路
-DOMAIN-SUFFIX,rrcdnbf1.com # 暴风线路
-DOMAIN-SUFFIX,rrcdnbf4.com # 暴风线路
+DOMAIN-SUFFIX,cdnlz12.com
+DOMAIN-SUFFIX,bfengbf.com
+DOMAIN-SUFFIX,rrcdnbf1.com
+DOMAIN-SUFFIX,rrcdnbf4.com
+DOMAIN-SUFFIX,lzcdn2.com
+DOMAIN-SUFFIX,kkzycdn.com
+DOMAIN-SUFFIX,bfikuncdn.com
 DOMAIN-SUFFIX,ffzy-online2.com
 DOMAIN-SUFFIX,ffzy-plays.com
-DOMAIN-SUFFIX,bfikuncdn.com
-DOMAIN-SUFFIX,kkzycdn.com
+DOMAIN-SUFFIX,ffzy-play7.com
 
-# > 电影天堂系列
+# > 电影天堂 & 资源搜索系列
 DOMAIN-SUFFIX,dytt-hot.com
 DOMAIN-SUFFIX,dytt-film.com
 DOMAIN-SUFFIX,dytt-cine.com
 DOMAIN-SUFFIX,dytt-kan.com
 DOMAIN-SUFFIX,dytt-see.com
-DOMAIN-SUFFIX,dytt-see.com
+DOMAIN-SUFFIX,dytt-cinema.com
 
-# > 555影视
-DOMAIN,5wuv.com
-DOMAIN,555yy9.com
-DOMAIN,555dy.org
-
-# > 办公与支付
+# > 通用、办公与支付
 DOMAIN-SUFFIX,live.com
 DOMAIN-SUFFIX,outlook.com
 DOMAIN-SUFFIX,payoneer.com
 DOMAIN-SUFFIX,sharedchat.fun
+DOMAIN-SUFFIX,mao.fan
+DOMAIN-SUFFIX,abtk.pinduoduo.com
+DOMAIN-SUFFIX,appstorrent.org
+DOMAIN-SUFFIX,sixyin.com
 
-# > 其他规则
+# > 其他杂项规则
 DOMAIN,exact.domain.com
 DOMAIN-KEYWORD,somekeyword
-DOMAIN-SUFFIX,proxyinfo.net # proxy toggle
-DOMAIN-SUFFIX,679866.xyz
+DOMAIN-SUFFIX,proxyinfo.net
 DOMAIN-SUFFIX,ly166.com
 DOMAIN-SUFFIX,gghijk.com
 DOMAIN-SUFFIX,qwe132456.cc
+DOMAIN-SUFFIX,ryplay12.com
+DOMAIN-SUFFIX,ryplay15.com
+DOMAIN-SUFFIX,bfvvs.com
+DOMAIN-SUFFIX,ymuuy.com
+DOMAIN-SUFFIX,gsuus.com
+DOMAIN-SUFFIX,qewbn.com
+DOMAIN-SUFFIX,bvvvvvvvvv1f.com
+DOMAIN-SUFFIX,fengbao9.com
+DOMAIN-SUFFIX,ddbbffcdn.com
