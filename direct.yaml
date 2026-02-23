@@ -24,6 +24,7 @@ payload:
   - DOMAIN-SUFFIX,ipsw.me
   - DOMAIN-SUFFIX,oracle.com
   - DOMAIN-SUFFIX,oraclecloud.com
+  - DOMAIN-SUFFIX,bfllvip.com
   - DOMAIN-SUFFIX,gying.org
   - DOMAIN-SUFFIX,btnull.org
   - DOMAIN-SUFFIX,555dy.org
