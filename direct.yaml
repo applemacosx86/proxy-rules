@@ -61,6 +61,7 @@ payload:
   - DOMAIN-SUFFIX,abtk.pinduoduo.com
   - DOMAIN-SUFFIX,appstorrent.org
   - DOMAIN-SUFFIX,sixyin.com
+  - DOMAIN-SUFFIX,rrcdnbf6.com
   - DOMAIN,exact.domain.com
   - DOMAIN-KEYWORD,somekeyword
   - DOMAIN-SUFFIX,proxyinfo.net
