@@ -4,6 +4,22 @@
 # 格式规范: 纯净域名列表，不带策略后缀
 # ==========================================================
 
+# > 影视线路 (CDN & 采集站)
+DOMAIN-SUFFIX,cdnlz12.com
+DOMAIN-SUFFIX,bfengbf.com
+DOMAIN-SUFFIX,rrcdnbf1.com
+DOMAIN-SUFFIX,rrcdnbf4.com
+DOMAIN-SUFFIX,lzcdn2.com
+DOMAIN-SUFFIX,kkzycdn.com
+DOMAIN-SUFFIX,bfikuncdn.com
+DOMAIN-SUFFIX,ffzy-online2.com
+DOMAIN-SUFFIX,ffzy-plays.com
+DOMAIN-SUFFIX,ffzy-play7.com
+DOMAIN-SUFFIX,rrcdnbf2.com
+DOMAIN-SUFFIX,rrcdnbf5.com
+DOMAIN-SUFFIX,bf8bf.com
+
+
 # > 局域网 & 私有地址
 IP-CIDR,192.168.0.0/16
 IP-CIDR,10.0.0.0/8
@@ -50,20 +66,6 @@ DOMAIN-SUFFIX,tutu.pm
 DOMAIN-SUFFIX,dytt-love.com
 DOMAIN-SUFFIX,maoyanplay.top
 DOMAIN-SUFFIX,679866.xyz
-
-# > 影视线路 (CDN & 采集站)
-DOMAIN-SUFFIX,cdnlz12.com
-DOMAIN-SUFFIX,bfengbf.com
-DOMAIN-SUFFIX,rrcdnbf1.com
-DOMAIN-SUFFIX,rrcdnbf4.com
-DOMAIN-SUFFIX,lzcdn2.com
-DOMAIN-SUFFIX,kkzycdn.com
-DOMAIN-SUFFIX,bfikuncdn.com
-DOMAIN-SUFFIX,ffzy-online2.com
-DOMAIN-SUFFIX,ffzy-plays.com
-DOMAIN-SUFFIX,ffzy-play7.com
-DOMAIN-SUFFIX,rrcdnbf2.com
-DOMAIN-SUFFIX,rrcdnbf5.com
 
 # > 电影天堂 & 资源搜索系列
 DOMAIN-SUFFIX,dytt-hot.com

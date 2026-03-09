@@ -1,4 +1,17 @@
 payload:
+  - DOMAIN-SUFFIX,cdnlz12.com
+  - DOMAIN-SUFFIX,bfengbf.com
+  - DOMAIN-SUFFIX,rrcdnbf1.com
+  - DOMAIN-SUFFIX,rrcdnbf4.com
+  - DOMAIN-SUFFIX,lzcdn2.com
+  - DOMAIN-SUFFIX,kkzycdn.com
+  - DOMAIN-SUFFIX,bfikuncdn.com
+  - DOMAIN-SUFFIX,ffzy-online2.com
+  - DOMAIN-SUFFIX,ffzy-plays.com
+  - DOMAIN-SUFFIX,ffzy-play7.com
+  - DOMAIN-SUFFIX,rrcdnbf2.com
+  - DOMAIN-SUFFIX,rrcdnbf5.com
+  - DOMAIN-SUFFIX,bf8bf.com
   - IP-CIDR,192.168.0.0/16
   - IP-CIDR,10.0.0.0/8
   - IP-CIDR,172.16.0.0/12
@@ -36,18 +49,6 @@ payload:
   - DOMAIN-SUFFIX,dytt-love.com
   - DOMAIN-SUFFIX,maoyanplay.top
   - DOMAIN-SUFFIX,679866.xyz
-  - DOMAIN-SUFFIX,cdnlz12.com
-  - DOMAIN-SUFFIX,bfengbf.com
-  - DOMAIN-SUFFIX,rrcdnbf1.com
-  - DOMAIN-SUFFIX,rrcdnbf4.com
-  - DOMAIN-SUFFIX,lzcdn2.com
-  - DOMAIN-SUFFIX,kkzycdn.com
-  - DOMAIN-SUFFIX,bfikuncdn.com
-  - DOMAIN-SUFFIX,ffzy-online2.com
-  - DOMAIN-SUFFIX,ffzy-plays.com
-  - DOMAIN-SUFFIX,ffzy-play7.com
-  - DOMAIN-SUFFIX,rrcdnbf2.com
-  - DOMAIN-SUFFIX,rrcdnbf5.com
   - DOMAIN-SUFFIX,dytt-hot.com
   - DOMAIN-SUFFIX,dytt-film.com
   - DOMAIN-SUFFIX,dytt-cine.com
