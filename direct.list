@@ -6,6 +6,7 @@
 
 # > 影视线路 (CDN & 采集站)
 DOMAIN-SUFFIX,cdnlz12.com
+DOMAIN-SUFFIX,dytt-live.com
 DOMAIN-SUFFIX,bfengbf.com
 DOMAIN-SUFFIX,rrcdnbf1.com
 DOMAIN-SUFFIX,rrcdnbf4.com
