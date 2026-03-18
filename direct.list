@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,ddns.net
 DOMAIN-SUFFIX,vercel.app
 DOMAIN-SUFFIX,speedtest.net
-DOMAIN,zeabur.com
+# DOMAIN,zeabur.com
 DOMAIN,cf-workers-docker-io-bb4.pages.dev
 
 # > 硬件、固件与云服务
