@@ -5,6 +5,7 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+DOMAIN-SUFFIX,lzcdn31.com
 DOMAIN-SUFFIX,taopianplay1.com
 DOMAIN-SUFFIX,cdnlz12.com
 DOMAIN-SUFFIX,dytt-live.com
