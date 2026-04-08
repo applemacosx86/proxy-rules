@@ -5,6 +5,8 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+
+DOMAIN-SUFFIX,360zyx.vip
 DOMAIN-SUFFIX,wlcdn88.com
 DOMAIN-SUFFIX,ppqrrs.com
 DOMAIN-SUFFIX,zuidazym3u8.com
