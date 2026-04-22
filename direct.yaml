@@ -28,7 +28,6 @@ payload:
   - DOMAIN-SUFFIX,upwork.com
   - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,orzass.com
-  - DOMAIN-SUFFIX,frame.io
   - DOMAIN-SUFFIX,cloudflare.com
   - DOMAIN-SUFFIX,cloufflare.com
   - DOMAIN-SUFFIX,sourceforge.net
