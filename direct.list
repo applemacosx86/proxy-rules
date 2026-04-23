@@ -46,7 +46,7 @@ DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,cloufflare.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,jk.io
-DOMAIN-SUFFIX,amazonaws.com
+# DOMAIN-SUFFIX,amazonaws.com
 DOMAIN-SUFFIX,logi.com
 DOMAIN-SUFFIX,noip.com
 DOMAIN-SUFFIX,ddns.net
