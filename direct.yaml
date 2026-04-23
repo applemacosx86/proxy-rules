@@ -25,7 +25,6 @@ payload:
   - IP-CIDR,172.16.0.0/12
   - DOMAIN-SUFFIX,nuc
   - DOMAIN-SUFFIX,gtr58.top
-  - DOMAIN-SUFFIX,upwork.com
   - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,orzass.com
   - DOMAIN-SUFFIX,cloudflare.com
