@@ -5,7 +5,8 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
-bDOMAIN-SUFFIX,baofeng10.com
+DOMAIN-SUFFIX,rrcdnbf2.com
+DOMAIN-SUFFIX,baofeng10.com
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,ikdmjx.com #ikun
 DOMAIN-SUFFIX,360zyx.vip
