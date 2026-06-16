@@ -6,6 +6,7 @@
 
 # > 影视线路 (CDN & 采集站)
 DOMAIN-SUFFIX,rrcdnbf2.com
+DOMAIN-SUFFIX,cdnlz16.com
 DOMAIN-SUFFIX,baofeng10.com
 DOMAIN-SUFFIX,qzz.io
 DOMAIN-SUFFIX,ikdmjx.com #ikun
