@@ -5,6 +5,7 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+DOMAIN-SUFFIX,ryplay4.com
 DOMAIN-SUFFIX,rrcdnbf2.com
 DOMAIN-SUFFIX,rrcdnbf3.com
 DOMAIN-SUFFIX,cdnlz16.com
