@@ -5,6 +5,7 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,dytt-network.com
 DOMAIN-SUFFIX,ryplay4.com
 DOMAIN-SUFFIX,b8bf.com
