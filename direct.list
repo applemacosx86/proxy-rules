@@ -5,6 +5,7 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+DOMAIN-SUFFIX,xgplay3.com
 DOMAIN-SUFFIX,xgplay15.com
 DOMAIN-SUFFIX,auroraoss.com
 DOMAIN-SUFFIX,dytt-network.com
