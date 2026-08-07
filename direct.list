@@ -5,6 +5,9 @@
 # ==========================================================
 
 # > 影视线路 (CDN & 采集站)
+
+DOMAIN-SUFFIX,sb-cd.com
+DOMAIN-SUFFIX,ptgncdn.com
 DOMAIN-SUFFIX,xgplay3.com
 DOMAIN-SUFFIX,xgplay4.com
 DOMAIN-SUFFIX,xgplay9.com
