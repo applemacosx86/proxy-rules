@@ -60,8 +60,7 @@ DOMAIN-SUFFIX,blackmagicdesign.com
 DOMAIN-SUFFIX,orzass.com
 
 # > 网络与开发工具
-DOMAIN-SUFFIX,cloudflare.com
-DOMAIN-SUFFIX,cloufflare.com
+#DOMAIN-SUFFIX,cloudflare.com
 DOMAIN-SUFFIX,sourceforge.net
 DOMAIN-SUFFIX,jk.io
 # DOMAIN-SUFFIX,amazonaws.com

@@ -45,8 +45,6 @@ payload:
   - DOMAIN-SUFFIX,gtr58.top
   - DOMAIN-SUFFIX,blackmagicdesign.com
   - DOMAIN-SUFFIX,orzass.com
-  - DOMAIN-SUFFIX,cloudflare.com
-  - DOMAIN-SUFFIX,cloufflare.com
   - DOMAIN-SUFFIX,sourceforge.net
   - DOMAIN-SUFFIX,jk.io
   - DOMAIN-SUFFIX,logi.com
